@@ -3,6 +3,7 @@
 
 This is an example app built on the ideas in the tutorial by James Yu found (here)[http://www.jamesyu.org/2011/01/27/cloudedit-a-backbone-js-tutorial-by-example/]
 
+'''
 $ mkdir Backbone
 $ cd Backbone/
 $ echo 'rvm use 1.9.2@backbone' > .rvmrc
@@ -343,4 +344,4 @@ $ git add .
 $ git rm public/index.html
 $ git commit -m "Finished tutorial :)"
 $ git push
-
+'''
