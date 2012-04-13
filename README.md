@@ -1,7 +1,7 @@
-== CloudEdit
-=== Backbone on Rails
+## CloudEdit
+### Backbone on Rails
 
-This is an example app built on the ideas in the tutorial by James Yu found (here)[http://www.jamesyu.org/2011/01/27/cloudedit-a-backbone-js-tutorial-by-example/]
+This is an example app built on the ideas in the tutorial by James Yu found [here](http://www.jamesyu.org/2011/01/27/cloudedit-a-backbone-js-tutorial-by-example/)
 
 ```
 $ mkdir Backbone
