@@ -11,5 +11,13 @@
 // GO AFTER THE REQUIRES BELOW.
 //
 //= require jquery
-//= require jquery_ujs
-//= require_tree .
+//= require vendor/underscore
+//= require vendor/backbone
+//
+//= require app/app
+//= require app/controllers/documents
+//= require app/models/document
+//= require app/views/documents/index
+//= require app/views/documents/edit
+//= require app/views/notice
+//= require app/views/error
